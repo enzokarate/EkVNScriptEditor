@@ -1,0 +1,14 @@
+{
+  "name": "ek-visual-novel-script-editor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Enzo Karate",
+  "license": "GNU GPL 3.0",
+  "devDependencies": {
+    "electron-prebuilt": "0.25.1"
+  }
+}
